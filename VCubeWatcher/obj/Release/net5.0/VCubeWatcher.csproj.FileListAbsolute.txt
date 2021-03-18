@@ -1,0 +1,11 @@
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.csprojAssemblyReference.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.Form1.resources
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.VCubeWatcher.Properties.Resources.resources
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.csproj.GenerateResource.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.AssemblyInfoInputs.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.AssemblyInfo.cs
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.csproj.CoreCompileInputs.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.RazorAssemblyInfo.cache
+C:\Users\cyria\Desktop\dotdot\VCubeWatcher\obj\Release\net5.0\VCubeWatcher.RazorAssemblyInfo.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyria\\Desktop\\VCubeWatcher\\VCubeWatcher.csproj": {}
+    "C:\\Users\\cyria\\Desktop\\dotdot\\VCubeWatcher\\VCubeWatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyria\\Desktop\\VCubeWatcher\\VCubeWatcher.csproj": {
+    "C:\\Users\\cyria\\Desktop\\dotdot\\VCubeWatcher\\VCubeWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyria\\Desktop\\VCubeWatcher\\VCubeWatcher.csproj",
+        "projectUniqueName": "C:\\Users\\cyria\\Desktop\\dotdot\\VCubeWatcher\\VCubeWatcher.csproj",
         "projectName": "VCubeWatcher",
-        "projectPath": "C:\\Users\\cyria\\Desktop\\VCubeWatcher\\VCubeWatcher.csproj",
+        "projectPath": "C:\\Users\\cyria\\Desktop\\dotdot\\VCubeWatcher\\VCubeWatcher.csproj",
         "packagesPath": "C:\\Users\\cyria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyria\\Desktop\\VCubeWatcher\\obj\\",
+        "outputPath": "C:\\Users\\cyria\\Desktop\\dotdot\\VCubeWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cyria\\AppData\\Roaming\\NuGet\\NuGet.Config",
