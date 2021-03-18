@@ -1,0 +1,10 @@
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\bin\Debug\VCubeWatcher.exe.config
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\bin\Debug\VCubeWatcher.exe
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\bin\Debug\VCubeWatcher.pdb
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.csprojAssemblyReference.cache
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.Form1.resources
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.Properties.Resources.resources
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.csproj.GenerateResource.cache
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.csproj.CoreCompileInputs.cache
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.exe
+C:\Users\cyria\Desktop\VCubeWatcher\VCubeWatcher\obj\Debug\VCubeWatcher.pdb
